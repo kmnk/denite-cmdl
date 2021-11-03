@@ -24,3 +24,4 @@ execute named commands
 
 If you want to add other commands, edit your cmdl.json manually )
 
+[denite]:https://github.com/Shougo/denite.nvim
