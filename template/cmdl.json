@@ -1,0 +1,13 @@
+{
+  "version": "0.1.0",
+  "cmls": [
+    {
+      "name": "show messages",
+      "to_execute": "messages"
+    },
+    {
+      "name": "invoke cmdl",
+      "to_execute": "Denite cmdl"
+    }
+  ]
+}
